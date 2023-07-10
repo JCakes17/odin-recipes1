@@ -1,0 +1,70 @@
+body {
+    background-color: skyblue;
+    width: 100%;
+}
+
+
+.title-main {
+    background-color: LightGrey;
+    color: Maroon;
+    text-align: center;
+}
+
+.link {
+    width: 200px;
+    margin: 0 auto;
+    color: green;
+    background-color: yellow;
+}
+
+
+.recipe-img {
+    display: block;
+    height: auto;
+    width: 300px;
+    margin: 0 auto;
+}
+
+.desc-head {
+    text-align: center;
+}
+
+.desc-text {
+    text-align: center;
+}
+
+.ingredients-title {
+    margin: 0 auto;
+    font-family: Helvetica, sans-serif;
+    color: indigo;
+    background-color: ivory;
+    text-align: center;
+}
+
+.ing-list {
+    margin: 0 auto;
+    width: 70%;
+}
+
+.steps-title {
+    margin: 0 auto;
+    font-family: Helvetica, sans-serif;
+    color: darkred;
+    background-color: darkgreen;
+    text-align: center;
+
+}
+
+.steps-list {
+    margin: 0 auto;
+    width: 70%;
+}
+
+
+
+
+
+ul li {
+   
+    list-style-position: inside;
+}
